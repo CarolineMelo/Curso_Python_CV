@@ -4,6 +4,7 @@
 # – à vista no cartão: 5% de desconto
 # – em até 2x no cartão: preço formal
 # – 3x ou mais no cartão: 20% de juros
+
 print('{:=^40}'.format(' LOJAS CAROL '))
 price = float(input('Preço das compras: '))
 print('''FORMAS DE PAGAMENTO
