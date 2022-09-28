@@ -6,7 +6,6 @@
 
 from tkinter import N
 
-
 for c in range(4,0,-1): #diminuindo 
     print(c)
 print('Fim')
