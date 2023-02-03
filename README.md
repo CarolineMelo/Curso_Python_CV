@@ -1,5 +1,6 @@
 <h1>Curso de Python do Professor Gustavo Guanabara📚💻</h1>
-<p>Este repositório contém o material do curso de Python do Professor Gustavo Guanabara, disponibilizado no site <a src="https://www.cursoemvideo.com/">Curso em Vídeo.<a>
+<p>Este repositório contém o material do curso de Python do Professor Gustavo Guanabara, disponibilizado no site <a href="https://www.cursoemvideo.com/">Curso em Vídeo.</a>
+
 
 O objetivo deste curso é apresentar a linguagem de programação Python de forma prática e didática, proporcionando aos alunos o conhecimento necessário para desenvolver aplicações de diversos tipos.</p>
 
